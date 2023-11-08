@@ -3,23 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Media Upload</title>
+    <title>Clickable Image</title>
 </head>
 <body>
 
-    <h1>Media Upload</h1>
-
-    <form action="http://localhost:8000/upload" method="post" enctype="multipart/form-data">
-        <label for="image">Select Image:</label>
-        <input type="file" name="image" id="image" accept="image/*" required>
-        <br>
-
-        <label for="video">Select Video:</label>
-        <input type="file" name="video" id="video" accept="video/*" required>
-        <br>
-
-        <input type="submit" value="Upload">
-    </form>
+<!-- Image with text -->
+<a href="destination_page.html">
+    <img src="your_image.jpg" alt="Clickable Image">
+    <p>Click me to go to another page!</p>
+</a>
 
 </body>
 </html>
