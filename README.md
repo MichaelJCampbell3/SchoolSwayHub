@@ -1,1 +1,1 @@
-[Here is the link: ](https://michaeljcampbell3.github.io/SchoolSwayHub/)schooltube
+Here is the link: [schooltube](https://michaeljcampbell3.github.io/SchoolSwayHub/)
